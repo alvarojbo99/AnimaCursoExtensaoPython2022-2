@@ -35,4 +35,3 @@ if idade >= 18 and genero == "M":
 print("vai ser executadade qualquer jeito")
 
 
-
